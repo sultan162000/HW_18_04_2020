@@ -16,7 +16,7 @@ namespace HelpMethods
         }
         public static T division<T>(T a, T b)
         {
-            return (dynamic)a * (dynamic)b;
+            return (dynamic)a / (dynamic)b;
         }
     }
 }
